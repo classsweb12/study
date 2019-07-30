@@ -1,0 +1,262 @@
+.move{
+	width: 100%;
+	height: 324px;
+	background: url(../img/qq.gif) no-repeat;
+}
+.main{
+	width: 1096px;
+	margin: 0 auto;
+
+}
+.gtx-1{
+	float: left;
+	width: 961px;
+	min-height: 42px;
+	background: url(../img/gtx-1.gif);
+}
+.size1{
+	float: left;
+	font-size: 30px;
+	color: white;
+	text-indent: 320px;
+}
+.gtx-2{
+	float: left;
+	height: 156px;
+	width: 961px;
+	background: url(../img/gtx-2.gif) repeat-x;
+}
+.get-2-1{
+	float: left;
+	padding-left: 55px;
+}
+.text1{
+	float: left;
+	width: 210px;
+	height: 22px;
+	background: url(../img/gtx-4.gif) no-repeat;
+	padding-top: 5px;
+	margin-top: 11px;
+}
+.size2{
+	float: left;
+	color: white;
+	font-size: 15px;
+	text-indent: 75px;
+}
+.text2{
+	float: left;
+	width: 212px;
+	height: 22px;
+	background: url(../img/gtx-5.gif) no-repeat;
+	padding-top: 5px;
+	margin-top: 10px;
+}
+.text3{
+	float: left;
+	width: 212px;
+	height: 22px;
+	background: url(../img/gtx-6.gif) no-repeat;
+	padding-top: 5px;
+	margin-top: 10px;
+}
+.text4{
+	float: left;
+	width: 210px;
+	height: 22px;
+	background: url(../img/gtx-7.gif) no-repeat;
+	padding-top: 6px;
+	margin-top: 12px;
+}
+.get-2-2{
+	float: left;
+	color: white;
+}
+.size3{
+	float: left;
+	padding-top: 25px;
+	padding-left: 75px;
+}
+.get-2-3{
+clear: both;
+	float: left;
+	padding-left: 430px;
+	padding-top: 30px;
+}
+.get3{
+	float: left;
+	border: 1px solid red;
+	width: 961px;
+	min-height: 245px;
+}
+.get3-1{
+	float: left;
+	padding: 15px;
+}
+.get3-2{
+	float: left;
+	width: 425px;
+	height: 218px;
+}
+.size4{
+	float: left;
+	width: 494px;
+	height: 28px;
+	background: url(../img/qq-3.gif) no-repeat;
+	margin-top: 17px;
+}
+.size5{
+	float: left;
+	width: 494px;
+	height: 190px;
+	background: #fff4da;
+	text-indent: 45px;
+}
+.text5{
+	float: left;
+	color:#4f3306;
+	padding: 20px;
+	line-height: 25px;
+}
+.get4{
+	float: left;
+	width: 960px;
+	height: 305px;
+	border: 1px solid red;
+}
+.get4-1{
+	float: left;
+	width: 919px;
+	height: 244px;
+	background: #FFF4DA;
+	margin: 15px;
+	border: 1px solid #c5873d;
+}
+.get4-1-1{
+	float: left;
+	width: 335px;
+	min-height: 244px;
+	border-right: 1px solid #C5873D;
+}
+.yes{
+	float: left;
+	width: 340px;
+	height: 28px;
+	background: url(../img/qq-6.gif)  no-repeat;
+	font-weight: bold;
+}
+.no{
+	margin: 1.5px;
+	float: left;
+	width: 333px;
+	height: 28px;
+	background: url(../img/qq-5.gif) repeat-x;
+	font-weight: bold;
+}
+.font1{
+	float: left;
+	padding: 5px;
+	color: #330000;
+	border-bottom: 1px solid #C5873D ;
+	width: 325px;
+	font-size: 14px;
+	text-indent: 10px;
+}
+.get4-1-2{
+	float: left;
+	padding-top: 35px;
+	padding-left: 25px;
+}
+.get5{
+	float: left;
+	width: 486px;
+	height: 211px;
+	border-right: 1px solid red;
+	border-left: 1px solid red;
+}
+.get5-1{
+	float: left;
+	padding: 10px;
+}
+.getsize1{
+	float: left;
+	color: red;
+	font-size: 13px;
+	text-indent: 15px;
+	text-decoration: none;
+}
+.imga{
+	padding-right: 10px;
+}
+.get6{
+	float: left;
+	width: 447px;
+	height: 210px;
+	border-right: 1px solid red;
+	border-left: 1px solid red;
+	margin-left: 25px;
+}
+.get6-1{
+	float: left;
+	padding-left: 1px;
+}
+.get6-2{
+	float: left;
+	padding: 20px;
+}
+.get6-3{
+	float: left;
+	padding-left: 110px;
+}.get7{
+	float: left;
+	width: 961px;
+	border-right: 1px solid red;
+}
+.get8{
+	float: left;
+	width: 961px;
+	border-right: 1px solid red;
+	border-bottom: 1px solid red;
+	border-left: 1px solid red;
+}
+.font2{
+	float: left;
+	width: 923px;
+	height: 124px;
+	border: 1px solid #C5873D;
+	margin-top: 5px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.font3{
+	float: left;
+	width: 120px;
+	border-right: 1px solid #C5873D;
+	height: 124px;
+	line-height: 41px;
+}
+.fuck1{
+	float: left;
+	color:#8c0000;
+	font-size: 16px;
+	padding-left: 25px;
+	width:96px ;
+	border-bottom: 1px solid #C5873D;
+}
+.pz{
+	width:920px ;
+	height: 124px;
+	background:#fff4da;
+}
+.pz_yes{
+	float: left;
+	width: 126px;
+	height: 40px;
+	background: url(../img/zz-2.gif) no-repeat;
+}
+.pz_no{
+	float: left;
+	width: 120px;
+	height: 43px;
+	background:#ffeab8;
+}
